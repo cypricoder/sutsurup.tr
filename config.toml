@@ -1,7 +1,7 @@
 # hugo server --minify --themesDir ../.. --baseURL=http://0.0.0.0:1313/theme/hugo-book/
 
 baseURL = 'https://example.com/'
-title = 'Veysel Sutsurup'
+title = 'Veysel Sütşurup'
 theme = 'hugo-book'
 author = "Veysel Sutsurup"
 copyright = "Copyright © 2025, Veysel Sutsurup and the Hugo Authors; all rights reserved."
@@ -28,7 +28,7 @@ enableGitInfo = true
   contentDir = 'content.en'
   weight = 1
 
-[languages.zh]
+[languages.tr]
   languageName = 'Turkish'
   contentDir = 'content.tr'
   weight = 2

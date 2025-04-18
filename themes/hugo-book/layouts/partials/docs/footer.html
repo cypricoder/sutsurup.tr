@@ -1,3 +1,4 @@
+<!--
 <div class="flex flex-wrap justify-between">
 
 {{ if and .GitInfo .Site.Params.BookRepo }}
@@ -24,4 +25,4 @@
 {{ $script := resources.Get "clipboard.js" | resources.Minify }}
 {{ with $script.Content }}
   <script>{{ . | safeJS }}</script>
-{{ end }}
+{{ end }} -->
