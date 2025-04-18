@@ -1,41 +1,24 @@
 ---
-title: Introduction
+title: Who is
 type: docs
 ---
 
-# Acerbo datus maxime
-
 {{% columns %}}
-## Astris ipse furtiva
+## About Me
 
-Est in vagis et Pittheus tu arge accipiter regia iram vocatur nurus. Omnes ut
-olivae sensit **arma sorori** deducit, inesset **crudus**, ego vetuere aliis,
-modo arsit? Utinam rapta fiducia valuere litora _adicit cursu_, ad facies
+Hi, I’m Veysel. I’m passionate about **visual communication**, **social media management**, and exploring the world of **operating systems**.  
+This site is a space where I share my background, interests, and ongoing projects.
 
 <--->
 
-## Suis quot vota
+## Let’s Connect
 
-Ea _furtique_ risere fratres edidit terrae magis. Colla tam mihi tenebat:
-miseram excita suadent es pecudes iam. Concilio _quam_ velatus posset ait quod
-nunc! Fragosis suae dextra geruntur functus vulgata.
+Whether you're here to learn more about my work or just browsing, feel free to explore and reach out.  
+I’m always open to new ideas, collaborations, or just a good conversation about design and tech.
 {{% /columns %}}
 
 
-## Tempora nisi nunc
+## What I Believe
 
-Lorem **markdownum** emicat gestu. Cannis sol pressit ducta. **Est** Idaei,
-tremens ausim se tutaeque, illi ulnis hausit, sed, lumina cutem. Quae avis
-sequens!
-
-    var panel = ram_design;
-    if (backup + system) {
-        file.readPoint = network_native;
-        sidebar_engine_device(cell_tftp_raster,
-                dual_login_paper.adf_vci.application_reader_design(
-                graphicsNvramCdma, lpi_footer_snmp, integer_model));
-    }
-
-## Locis suis novi cum suoque decidit eadem
-
-Idmoniae ripis, at aves, ali missa adest, ut _et autem_, et ab?
+I believe in the power of clear communication, thoughtful design, and the right tools to make ideas come to life.  
+I’m currently working on a few projects that blend creativity and technology — more on that soon! :)
