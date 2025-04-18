@@ -26,23 +26,18 @@ languages:
     contentDir: content.en
     weight: 1
   zh:
-    languageName: Chinese
-    contentDir: content.zh
+    languageName: Turkish
+    contentDir: content.tr
     weight: 2
-  he:
-    languageName: Hebrew
-    contentDir: content.he
-    languageDirection: rtl
-    weight: 3
 
 menu:
   # before: []
   after:
     - name: "Github"
-      url: "https://github.com/alex-shpak/hugo-book"
+      url: "https://github.com/sutsurup"
       weight: 10
-    - name: "Hugo Themes"
-      url: "https://themes.gohugo.io/themes/hugo-book/"
+    - name: "Theme Hugo-Book by Alex Shpak"
+      url: "https://github.com/alex-shpak/hugo-book"
       weight: 20
 
 params:
