@@ -29,7 +29,7 @@ enableGitInfo = true
   weight = 1
 
 [languages.zh]
-  languageName = 'Turkish'
+  languageName = 'Türkçe'
   contentDir = 'content.tr'
   weight = 2
 
