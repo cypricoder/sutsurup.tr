@@ -1,0 +1,11 @@
+ - title: "OK Computer"
+   subtitle: "Radiohead"
+   image: "/images/album-okcomputer.jpg"
+   year: 1997
+   note: "Alternatif rock, atmosferik prodüksiyon."
+
+ - title: "Abbey Road"
+   subtitle: "The Beatles"
+   image: "/images/album-abbeyroad.jpg"
+   year: 1969
+   note: "Klasik, melodik ve zamansız."

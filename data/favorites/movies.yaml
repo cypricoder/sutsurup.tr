@@ -1,0 +1,11 @@
+ - title: "Inception"
+   subtitle: "Christopher Nolan"
+   image: "/images/inception.jpg"
+   year: 2010
+   note: "Çok katmanlı anlatı ve etkileyici görsellik."
+
+ - title: "Spirited Away"
+   subtitle: "Hayao Miyazaki"
+   image: "/images/spirited-away.jpg"
+   year: 2001
+   note: "Büyülü gerçekçilik ve zengin detaylar."

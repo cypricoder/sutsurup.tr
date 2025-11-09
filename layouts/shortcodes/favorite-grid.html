@@ -1,0 +1,19 @@
+{{/*
+ Shortcode: {{< favorite-grid "music" >}} or {{< favorite-grid "movies" >}}
+ Renders items from data/favorites/<kind>.yaml
+*/}}
+{{- $kind := .Get 0 -}}
+{{- if not $kind }}{{ errorf "favorite-grid: missing kind parameter (music|movies)" }}{{- end -}}
+{{- $items := index .Site.Data.favorites $kind -}}
+{{- if not $items }}<p>No items found for '{{ $kind }}'</p>{{- else }}
+<div class="favorites-grid">
+  {{- range $i, $item := $items }}
+    <div class="fav-card">
+      {{- with $item.image }}<img src="{{ . }}" alt="{{ $item.title }}">{{- end }}
+      <strong>{{ $item.subtitle }}</strong>{{ if $item.title }} — <em>{{ $item.title }}</em>{{ end }}
+      {{- if $item.year }}<div class="muted">{{ $item.year }}</div>{{- end }}
+      {{- if $item.note }}<div class="fav-note">{{ $item.note }}</div>{{- end }}
+    </div>
+  {{- end }}
+</div>
+{{- end }}

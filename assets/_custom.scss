@@ -2,3 +2,26 @@
 
 // @import "plugins/numbered";
 // @import "plugins/scrollbars";
+
+/* Favorites grid and card styles (for content.tr/docs/favorites pages) */
+.favorites-grid {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+	gap: 1rem;
+	margin: 1rem 0;
+}
+.fav-card {
+	background: var(--color-card-bg, #fff);
+	border-radius: 8px;
+	box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+	padding: 1rem;
+	display:flex;
+	flex-direction:column;
+	gap:.5rem;
+}
+.fav-card img {
+	max-width:100%;
+	border-radius:6px;
+	object-fit:cover;
+}
+
